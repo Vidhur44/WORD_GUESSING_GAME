@@ -2,6 +2,9 @@
 It's a game on guessing the right word
 
 STEPS :-
+
+
+
 *Start guessing the individual characters, if its right it will be revealed in its respective place in the word.
 
 
